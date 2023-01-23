@@ -9,7 +9,7 @@ require (
 	github.com/gorilla/handlers v1.5.1
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/hashicorp/memberlist v0.3.0
+	github.com/hashicorp/memberlist v0.5.0
 	github.com/icrowley/fake v0.0.0-20180203215853-4178557ae428
 	github.com/isacikgoz/prompt v0.1.0
 	github.com/magefile/mage v1.11.0
@@ -18,12 +18,12 @@ require (
 	github.com/mattermost/mattermost-server/v6 v6.0.0-20211221075952-c198ef6e167e
 	github.com/mattermost/rsc v0.0.0-20160330161541-bbaefb05eaa0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.2.1
-	github.com/spf13/viper v1.8.1
-	github.com/stretchr/testify v1.7.0
+	github.com/spf13/viper v1.15.0
+	github.com/stretchr/testify v1.8.1
 	github.com/tylerb/graceful v1.2.15
-	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
+	golang.org/x/term v0.3.0
 	gopkg.in/olivere/elastic.v6 v6.2.37
 )
