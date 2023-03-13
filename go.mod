@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/corpix/uarand v0.1.1 // indirect
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.15.0
 	github.com/golang/mock v1.6.0
 	github.com/gorilla/handlers v1.5.1
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b
